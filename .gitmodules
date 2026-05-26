@@ -13,3 +13,6 @@
 [submodule "Agenda_Service"]
 	path = Agenda_Service
 	url = https://github.com/JaAncaten/Agenda_Service.git
+[submodule "FichaClinica-Service"]
+	path = FichaClinica-Service
+	url = https://github.com/JaAncaten/FichaClinica-Service.git
