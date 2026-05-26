@@ -10,3 +10,6 @@
 [submodule "Atencion_Service"]
 	path = Atencion_Service
 	url = https://github.com/JaAncaten/Atencion_Service.git
+[submodule "Agenda_Service"]
+	path = Agenda_Service
+	url = https://github.com/JaAncaten/Agenda_Service.git
