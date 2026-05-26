@@ -1,3 +1,6 @@
 [submodule "AuthService"]
 	path = AuthService
 	url = https://github.com/JaAncaten/AuthService.git
+[submodule "Usuario_Service"]
+	path = Usuario_Service
+	url = https://github.com/JaAncaten/Usuario_Service.git
