@@ -31,3 +31,6 @@
 [submodule "VetNova-API"]
 	path = VetNova-API
 	url = https://github.com/JaAncaten/VetNova-API.git
+[submodule "Soporte-Service"]
+	path = Soporte-Service
+	url = https://github.com/JaAncaten/Soporte-Service.git
