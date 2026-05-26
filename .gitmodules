@@ -22,3 +22,9 @@
 [submodule "VetNova-Inventario"]
 	path = VetNova-Inventario
 	url = https://github.com/JaAncaten/VetNova-Inventario.git
+[submodule "Venta-Service"]
+	path = Venta-Service
+	url = https://github.com/JaAncaten/Venta-Service.git
+[submodule "Pago-Service"]
+	path = Pago-Service
+	url = https://github.com/JaAncaten/Pago-Service.git
