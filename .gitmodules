@@ -37,3 +37,6 @@
 [submodule "Valoracion-Service"]
 	path = Valoracion-Service
 	url = https://github.com/JaAncaten/Valoracion-Service.git
+[submodule "Notificacion-Service"]
+	path = Notificacion-Service
+	url = https://github.com/JaAncaten/Notificacion-Service.git
