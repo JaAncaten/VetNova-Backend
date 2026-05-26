@@ -28,3 +28,6 @@
 [submodule "Pago-Service"]
 	path = Pago-Service
 	url = https://github.com/JaAncaten/Pago-Service.git
+[submodule "VetNova-API"]
+	path = VetNova-API
+	url = https://github.com/JaAncaten/VetNova-API.git
