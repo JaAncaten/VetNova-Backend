@@ -4,3 +4,6 @@
 [submodule "Usuario_Service"]
 	path = Usuario_Service
 	url = https://github.com/JaAncaten/Usuario_Service.git
+[submodule "Mascota_Service"]
+	path = Mascota_Service
+	url = https://github.com/JaAncaten/Mascota_Service.git
