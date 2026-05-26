@@ -16,3 +16,9 @@
 [submodule "FichaClinica-Service"]
 	path = FichaClinica-Service
 	url = https://github.com/JaAncaten/FichaClinica-Service.git
+[submodule "Catalogo-Service"]
+	path = Catalogo-Service
+	url = https://github.com/JaAncaten/Catalogo-Service.git
+[submodule "VetNova-Inventario"]
+	path = VetNova-Inventario
+	url = https://github.com/JaAncaten/VetNova-Inventario.git
