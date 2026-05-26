@@ -34,3 +34,6 @@
 [submodule "Soporte-Service"]
 	path = Soporte-Service
 	url = https://github.com/JaAncaten/Soporte-Service.git
+[submodule "Valoracion-Service"]
+	path = Valoracion-Service
+	url = https://github.com/JaAncaten/Valoracion-Service.git
